@@ -2,8 +2,8 @@ import pygame
 
 pygame.init()
 
-SCREEN_WIDTH = 600
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 1920
+SCREEN_HEIGHT = 1080
 
 x=50
 y=50
